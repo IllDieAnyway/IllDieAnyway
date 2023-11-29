@@ -3,7 +3,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1753564986744861551/3F00302BC4585B5340EB669B36F70A3014655471/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/io_ping">
+  <a href="https://t.me/zxcdm">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" align="centeralt="Telegram"/>
   </a>
   <a href="https://www.youtube.com/c/angelstogether">
