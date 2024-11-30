@@ -17,8 +17,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IllDieAnyway&show_icons=true&theme=white"/>
 </div>
                                                                                                                         
-<a href="https://github.com/IllDieAnyway" align="center"><img alt="IllDieAnyway Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=IllDieAnyway&bg_color=FFFFFF&color=ee5253&line=48dbfb&point=341f97&hide_border=true" /></a>
 <div align="center"><h2>Languages</h2></div>
 
 <div id="badges" align="center">
