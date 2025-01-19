@@ -18,6 +18,8 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [**Fortnite AI Hack**](https://github.com/IllDieAnyway/fortnite-ai-hack) | AI-based Fortnite Aimbot, Triggerbot, Box. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
+| [**Realm-Royale Triggerbot**](https://github.com/IllDieAnyway/realm-royale-triggerbot) | Color-based Triggerbot. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 | [**vk_inviter**](https://github.com/IllDieAnyway/vk_inviter) | Tool for inviting to VK chats. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 | [**PhpMyAdmin-Bruteforce-Fast**](https://github.com/IllDieAnyway/PhpMyAdmin-Bruteforce-Fast) | Multithreaded bruteforce for PMA with Telegram callback. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 | [**strinova-triggerbot**](https://github.com/IllDieAnyway/strinova-triggerbot) | Color-based triggerbot for Strinova. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
