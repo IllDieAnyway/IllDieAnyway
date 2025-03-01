@@ -18,6 +18,7 @@
 
 | Repository | Description | Language |
 |------------|-------------|----------|
+| [**Telegram Bot Client**](https://github.com/IllDieAnyway/telegram-bot-client) | Simple web app for login in telegram by bot token | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 | [**Fortnite AI Hack**](https://github.com/IllDieAnyway/fortnite-ai-hack) | AI-based Fortnite Aimbot, Triggerbot, Box. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 | [**Realm-Royale Triggerbot**](https://github.com/IllDieAnyway/realm-royale-triggerbot) | Color-based Triggerbot. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
 | [**vk_inviter**](https://github.com/IllDieAnyway/vk_inviter) | Tool for inviting to VK chats. | ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white) |
